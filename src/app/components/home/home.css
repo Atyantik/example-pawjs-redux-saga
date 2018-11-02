@@ -32,7 +32,12 @@
     max-width: 850px;
     margin: 0 auto;
 }
-
+.mw900{
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 2rem;
+    border-top: 1px solid #000;
+}
 .col6{
     width: 50%;
     float: left;
@@ -40,6 +45,25 @@
 .col6md{
     width: 50%;
     float: left;
+}
+.col8{
+    width: 60%;
+    float: left;
+}
+.col4{
+    width: 40%;
+    float: left;
+}
+.p1 {
+    padding: 1rem;
+}
+.p2 {
+    padding: 2rem 0;
+}
+.link{
+    text-decoration: none;
+    color: #308CBA;
+    font-weight: 600;
 }
 .black{
     background-color: #000000!important;
@@ -52,6 +76,14 @@
 @media (max-width: 600px) {
     .col6md{
         width: 100%;
+    }
+    .col4{
+        width: 100%;
+        text-align: center;
+    }
+    .col8{
+        width: 100%;
+        text-align: center;
     }
     .value{
         font-size: 100px;
