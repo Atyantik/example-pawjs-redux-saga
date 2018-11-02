@@ -4,7 +4,7 @@
 <h1 align="center" style="text-align:center">ReactPWA - PawJS & Redux-Saga</h1>
 
 
-Example repository for integrating Redux-Saga with ReactPWA project. This repo demonstrates the usage & integration of Redux(SAGA) in existing ReactPWA project using Redux-Saga.
+Example repository for integrating Redux-Saga with ReactPWA project. This repo demonstrates the usage & integration of Redux-Saga in existing ReactPWA project using Redux-Saga.
 
 
 ### Getting Started
