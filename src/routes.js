@@ -21,8 +21,8 @@ export default class Routes {
     routeHandler.hooks.initRoutes.tapPromise('AppRoutes', async () => {
       routeHandler.addRoutes(routes);
       routeHandler.setPwaSchema({
-        name: 'ReactPWA | Redux Saga',
-        short_name: 'RPWAR',
+        name: 'ReactPWA | PawJS - Redux Saga',
+        short_name: 'P-SAGA',
         dir: 'ltr',
         lang: 'en-US',
         orientation: 'any',

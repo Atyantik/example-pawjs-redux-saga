@@ -2,7 +2,7 @@
   "port": "9006",
   "host": "0.0.0.0",
   "appRootUrl": "/examples/redux-saga",
-  "serviceWorker": false,
+  "serviceWorker": true,
   "asyncCSS": false,
   "serverSideRender": true,
   "singlePageApplication": false
